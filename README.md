@@ -10,6 +10,7 @@
 | [0001-two-sum](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0053-maximum-subarray](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,9 +24,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0053-maximum-subarray](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
