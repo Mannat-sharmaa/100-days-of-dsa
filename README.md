@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
