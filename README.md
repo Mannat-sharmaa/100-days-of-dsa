@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0485-max-consecutive-ones) |
+| [0283-move-zeroes](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
