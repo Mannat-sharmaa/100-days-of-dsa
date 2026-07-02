@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0283-move-zeroes) |
 | [0066-plus-one](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0119-pascals-triangle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0053-maximum-subarray](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0119-pascals-triangle-ii) |
 ## Sorting
 |  |
 | ------- |
