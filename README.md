@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,11 +27,13 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0217-contains-duplicate) |
+| [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +45,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0217-contains-duplicate) |
+| [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,4 +58,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0066-plus-one) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
