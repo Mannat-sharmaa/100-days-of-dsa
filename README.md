@@ -19,6 +19,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0283-move-zeroes) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Math
 |  |
 | ------- |
