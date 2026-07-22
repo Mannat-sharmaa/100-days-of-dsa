@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0283-move-zeroes) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Math
 |  |
 | ------- |
