@@ -22,6 +22,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0027-remove-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0217-contains-duplicate](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0217-contains-duplicate) |
 | [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
+| [0088-merge-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0027-remove-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
