@@ -27,10 +27,12 @@
 | [0414-third-maximum-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0027-remove-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +88,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
