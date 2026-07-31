@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
 | [0088-merge-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
