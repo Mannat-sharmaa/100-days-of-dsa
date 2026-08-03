@@ -28,6 +28,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0041-first-missing-positive](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0041-first-missing-positive](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0041-first-missing-positive) |
 ## Dynamic Programming
 |  |
 | ------- |
