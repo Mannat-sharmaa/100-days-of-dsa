@@ -29,6 +29,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0041-first-missing-positive](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0041-first-missing-positive](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0088-merge-sorted-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,4 +97,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
