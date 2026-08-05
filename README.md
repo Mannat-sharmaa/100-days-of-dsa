@@ -54,6 +54,7 @@
 | [0041-first-missing-positive](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0414-third-maximum-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
