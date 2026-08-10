@@ -32,12 +32,14 @@
 | [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0242-valid-anagram](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +97,7 @@
 | [0189-rotate-array](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
