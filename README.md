@@ -62,6 +62,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0049-group-anagrams](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 ## Union-Find
 |  |
 | ------- |
