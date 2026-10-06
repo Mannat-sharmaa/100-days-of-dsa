@@ -33,6 +33,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0136-single-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0136-single-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0136-single-number) |
 ## String
 |  |
 | ------- |
