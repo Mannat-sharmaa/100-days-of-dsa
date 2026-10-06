@@ -63,6 +63,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0771-jewels-and-stones) |
 ## Union-Find
 |  |
 | ------- |
