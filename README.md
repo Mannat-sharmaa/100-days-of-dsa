@@ -37,6 +37,7 @@
 | [0137-single-number-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0260-single-number-iii) |
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0771-jewels-and-stones) |
+| [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +121,7 @@
 | [0229-majority-element-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
+| [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,8 +153,17 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
