@@ -36,6 +36,7 @@
 | [0136-single-number](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0260-single-number-iii) |
+| [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,4 +140,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
