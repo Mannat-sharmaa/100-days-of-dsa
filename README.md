@@ -38,6 +38,7 @@
 | [0260-single-number-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0260-single-number-iii) |
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0454-4sum-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0454-4sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0771-jewels-and-stones) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0454-4sum-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0454-4sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
