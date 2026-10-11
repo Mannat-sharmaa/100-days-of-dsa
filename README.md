@@ -73,6 +73,7 @@
 | [0771-jewels-and-stones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0771-jewels-and-stones) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0454-4sum-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0771-jewels-and-stones) |
+| [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -156,6 +160,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Ordered Set
 |  |
 | ------- |
@@ -164,6 +169,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
