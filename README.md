@@ -39,6 +39,7 @@
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0454-4sum-ii) |
+| [0692-top-k-frequent-words](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0454-4sum-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +147,7 @@
 | [0383-ransom-note](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0771-jewels-and-stones) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0692-top-k-frequent-words) |
 ## Union-Find
 |  |
 | ------- |
@@ -161,6 +166,7 @@
 | [0220-contains-duplicate-iii](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0692-top-k-frequent-words) |
 ## Ordered Set
 |  |
 | ------- |
@@ -170,8 +176,13 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Mannat-sharmaa/100-days-of-dsa/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
